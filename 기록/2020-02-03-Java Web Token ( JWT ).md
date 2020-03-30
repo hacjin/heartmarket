@@ -59,13 +59,13 @@ HMACSHA256(
 - 아래와 같은 순서로 `.`을 이용해 합친다.
 - 최종적으로 만들어진 토큰은 HTTP 통신 간 이용되며, `Authorization`이라는 `key`의 `value`로서 사용 된다.
 
-![](document_img/JWT-Architecturepng.png)
+![](./document_img/JWT-Architecturepng.png)
 
 이미지 출처 : https://sanghaklee.tistory.com/47
 
 #### JWT 인증 과정
 
-![](C:\Users\multicampus\Desktop\스켈레톤_공통\sub2-project\heartmarket\document_img\JWT-process.png)
+![](./document_img/JWT-process.png)
 
 이미지 출처 : https://sanghaklee.tistory.com/47
 
